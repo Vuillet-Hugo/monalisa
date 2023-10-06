@@ -2,9 +2,9 @@
 
 A new Flutter project.
 
-## Getting Started
+Vuillet Hugo
 
-This project is a starting point for a Flutter application.
+hugo.vuillet@viacesi.fr
 
 A few resources to get you started if this is your first Flutter project:
 
